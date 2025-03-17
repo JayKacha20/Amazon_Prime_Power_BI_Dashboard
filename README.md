@@ -3,7 +3,7 @@
   <p>Data visualization and business intelligence projects using Power BI.</p>
   
   <a href="https://github.com/JayKacha20/your-powerbi-repo">
-    <img src="https://your-image-link.com/image.png" alt="Power BI Dashboard" width="600">
+    <img src="[https://your-image-link.com/image.png](https://github.com/JayKacha20/Amazon_Prime_Power_BI_Dashboard/blob/main/amazon_prime_dashboard.png)" alt="Power BI Dashboard" width="600">
   </a>
   
   <p>🔍 Explore insights and interactive dashboards powered by Power BI.</p>
