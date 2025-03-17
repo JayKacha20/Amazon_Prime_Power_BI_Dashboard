@@ -1,26 +1,26 @@
 <div align="center">
-  <h1>Power BI Projects</h1>
-  <p>Data visualization and business intelligence projects using Power BI.</p>
+  <h1>Amazon Prime Power BI Dashboard</h1>
+  <p>📊 Interactive Power BI dashboard for Amazon Prime data analysis.</p>
   
-  <a href="https://github.com/JayKacha20/your-powerbi-repo">
-    <img src="[https://your-image-link.com/image.png](https://github.com/JayKacha20/Amazon_Prime_Power_BI_Dashboard/blob/main/amazon_prime_dashboard.png)" alt="Power BI Dashboard" width="600">
+  <a href="https://github.com/JayKacha20/Amazon_Prime_Power_BI_Dashboard">
+    <img src="https://raw.githubusercontent.com/JayKacha20/Amazon_Prime_Power_BI_Dashboard/main/amazon_prime_dashboard.png" alt="Amazon Prime Power BI Dashboard" width="700">
   </a>
   
-  <p>🔍 Explore insights and interactive dashboards powered by Power BI.</p>
+  <p>🔍 Gain insights into Amazon Prime trends, performance, and key metrics using Power BI.</p>
   
-  <h2>📌 Repository Features</h2>
+  <h2>📌 Key Features</h2>
   <ul>
-    <li>📊 Interactive dashboards</li>
-    <li>📈 Data analysis with DAX and Power Query</li>
-    <li>📁 Real-world datasets and business cases</li>
+    <li>📊 Interactive data visualizations</li>
+    <li>📈 Analysis using DAX and Power Query</li>
+    <li>📁 Real-world Amazon Prime dataset</li>
   </ul>
   
   <h2>🚀 Get Started</h2>
-  <p>Clone the repository and open Power BI files to explore the reports.</p>
+  <p>Clone the repository and open the Power BI file to explore the insights.</p>
   
   <pre>
-  git clone https://github.com/JayKacha20/your-powerbi-repo.git
+  git clone https://github.com/JayKacha20/Amazon_Prime_Power_BI_Dashboard.git
   </pre>
   
-  <p>Feel free to contribute or connect with me on LinkedIn!</p>
+  <p>⭐ If you find this project helpful, consider giving it a star on GitHub!</p>
 </div>
